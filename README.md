@@ -5,6 +5,9 @@ Bu proje  BTU-Linux Araçları ve Kabuk Programlama dersi için yaptığım Shel
 ## Proje Amacı
 wget komutunu değişik parametrelerle çalıştıran shell scriptine zenity kullanarak görsel bir arayüz oluşturulmuştur.
 
+## Youtube Video Linki
+Uygulamanın kullanımı nasıl kurulduğunu, neler yaptığı , nasıl yapıldığını, kodların açıklmasını içeren [YOUTUBE LINKI](https://www.youtube.com/watch?v=sM7BEC_ms5k) 
+
 # Uygulama Görüntüleri ve Özellikleri
 
 ## Ana Ekran
