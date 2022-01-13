@@ -70,9 +70,9 @@ Zipten çıkarılmış klasorde terminali açınız.
 bash wgetapp.sh komutunu calistiniz.
 
 ## Git Üzerinden İndirmek ve Calistirmak
-git clone https://github.com/MustafaErenn/Wget-Zenity.git
-cd Wget-Zenity
-bash wgetapp.sh
+- git clone https://github.com/MustafaErenn/Wget-Zenity.git
+- cd Wget-Zenity
+- bash wgetapp.sh
 
 
 # İletişim
